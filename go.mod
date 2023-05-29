@@ -1,4 +1,4 @@
-module github.com/wumansgy/goEncrypt
+module github.com/JcobCN/goEncrypt
 
 go 1.16
 

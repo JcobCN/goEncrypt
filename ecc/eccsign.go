@@ -10,7 +10,7 @@ import (
 	"runtime"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/wumansgy/goEncrypt/hash"
+	"github.com/JcobCN/goEncrypt/hash"
 )
 
 func eccSign(msg []byte, priKey []byte) (rSign []byte, sSign []byte, err error) {

@@ -10,7 +10,7 @@ import (
 	"runtime"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/wumansgy/goEncrypt/hash"
+	"github.com/JcobCN/goEncrypt/hash"
 )
 
 func rsaSign(msg, priKey []byte) (sign []byte, err error) {

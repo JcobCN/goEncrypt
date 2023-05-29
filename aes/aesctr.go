@@ -8,7 +8,7 @@ import (
 	"runtime"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/wumansgy/goEncrypt"
+	"github.com/JcobCN/goEncrypt"
 )
 
 /*

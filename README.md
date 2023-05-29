@@ -14,7 +14,7 @@ go语言封装的各种对称加密和非对称加密，可以直接使用，包
 使用方法
 
 ```
-go get github.com/wumansgy/goEncrypt
+go get github.com/JcobCN/goEncrypt
 ```
 
 然后下载到本地可以直接调用，包括了DES的CBC模式的加密解密（虽然DES早就被破解，但是可以参考使用），三重DES的加密解密（可以使用），AES的CBC模式和CTR模式（对称加密中常用的加密算法），非对称加密RSA的加密解密（比较常用的非对称加密算法），椭圆曲线加密算法（后面更新），还有哈希函数sha256，sha512的快速使用（MD5，SHA1已经在2004，2005年被陆续攻破，现在常用sha256和sha512）
