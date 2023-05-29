@@ -6,7 +6,7 @@ import (
 	"encoding/base64"
 	"encoding/hex"
 
-	"github.com/wumansgy/goEncrypt"
+	"github.com/JcobCN/goEncrypt"
 )
 
 /*
